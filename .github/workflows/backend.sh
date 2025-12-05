@@ -1,2 +1,0 @@
-mkdir backend
-cd backend
